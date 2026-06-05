@@ -6,7 +6,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![CI](https://github.com/babacar-niang/fintech-payment-engine/actions/workflows/ci.yml/badge.svg)
+
 
 A production-grade payment processing platform built with **Java 17**, **Spring Boot**, **Apache Kafka**, and **PostgreSQL**.
 
