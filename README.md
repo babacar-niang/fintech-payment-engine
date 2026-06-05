@@ -1,5 +1,5 @@
 # Fintech Payment Engine
-
+![CI](https://github.com/babacar-niang/fintech-payment-engine/actions/workflows/ci.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-green)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-Event_Driven-black)
